@@ -1,0 +1,8 @@
+0495112440, Fisica para ciencias e ingenieria con Fisica Moderna, Serway-Jewett, Cengage Learning, 7, 2
+9708300551, Ecuaciones Diferenciales con a aplicaciones de modelado, Dennis G. Zill, Cengage Learning, 9, 1
+607150502x, Calculo Trascendentes tempranas, Dennis G.Zill, Mcgraw-Hill, 4, 1
+607150273x, Calculo 1 de una Variable, Larson, Mcgraw-Hill, 9, 1
+9786075220178, Calculo, Larson Ron, Cengage Learning, 10, 2
+6074817847, Calculo de una variable, James Stewart, Cengage Learning, 7, 1
+9871347766, Curso de Programacion C#, Arrioja Landa Cosio Nicolas, Users, 1, 1
+9586827704, Sistemas Embebidos en C, Galeano, Alfaomega, 1, 1
